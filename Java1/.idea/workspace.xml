@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="258fdc72-0c13-49a3-9179-e04b2327ab5e" name="Changes" comment="java 수업" />
+    <list default="true" id="258fdc72-0c13-49a3-9179-e04b2327ab5e" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java1/ai0416/ReplaceAllTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/ai0416/ReplaceAllTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ai0416/ReplaceAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ai0416/ReplaceAllTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -34,7 +50,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/thanks04122006-spec/java&quot;,
+    &quot;url&quot;: &quot;https://github.com/thanks04122006-spec/JAVA.git&quot;,
     &quot;accountId&quot;: &quot;224b2647-1d04-4b3c-90a7-d74da61b06d8&quot;
   }
 }</component>
@@ -69,10 +85,12 @@
     &quot;Application.more.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ooo.executor&quot;: &quot;Run&quot;,
     &quot;Application.stringtest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
     &quot;Application.test1.executor&quot;: &quot;Debug&quot;,
     &quot;Application.wantsleep01.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -83,11 +101,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/java/Java1/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Template Data Languages&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReplaceAllTest">
+  <component name="RunManager" selected="애플리케이션.datatype">
     <configuration name="ReplaceAllTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ai0416.ReplaceAllTest" />
       <module name="Java1" />
@@ -153,15 +171,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ReplaceAllTest" />
-        <item itemvalue="Application.datatype" />
-        <item itemvalue="Application.ooo" />
-        <item itemvalue="Application.ScannerTest01" />
-        <item itemvalue="Application.wantsleep01" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -190,6 +199,9 @@
       <workItem from="1776298157433" duration="3966000" />
       <workItem from="1776302954807" duration="124000" />
       <workItem from="1776303092617" duration="175000" />
+      <workItem from="1776303601301" duration="711000" />
+      <workItem from="1776304338113" duration="155000" />
+      <workItem from="1776304633895" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="first commit messege">
       <option name="closed" value="true" />
@@ -247,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776302260297</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1776303657504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776303657504</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1776303666623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776303666623</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1776304757294</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776304757294</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +349,14 @@
     <MESSAGE value="첫 번째 커밋 메시지" />
     <MESSAGE value="first commit messege" />
     <MESSAGE value="java 수업" />
-    <option name="LAST_COMMIT_MESSAGE" value="java 수업" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/thanks04122006-spec/JAVA" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
