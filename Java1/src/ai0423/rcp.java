@@ -12,7 +12,7 @@ public class rcp {
 
         Random rand = new Random();
         String[] com = {"가위","바위","보"};
-        int R = rand.nextInt(3)-1;
+        int R = rand.nextInt(3);
         String comChoices = com[R];
 
         System.out.println("* 컴퓨터의 가위바위보 : " + com[R]);
