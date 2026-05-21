@@ -15,7 +15,6 @@ public class homework0519 {
             return;
         }
 
-
         switch (name) {
             case 1: // 아메리카노 레시피
                 System.out.println("재료:\n" +
