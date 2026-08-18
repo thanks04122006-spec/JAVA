@@ -25,6 +25,7 @@ public class ArrayTest01 {
             }
             else{
                 System.out.printf(numArr[j] + " = ");
+
                 System.out.print(sum);
             }
         }
